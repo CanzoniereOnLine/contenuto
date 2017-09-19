@@ -5,7 +5,8 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jp
 metaAlignment: center
 showPagination: false
 ---
-### Sito in costruzione
-Qui appena abbiamo un attimo di tempo spieghiamo invece come si può fare a collaborare! In generale, promuoviamo la trascrizione di nuove canzoni per arricchire il database (e l'invio di immagini belle che se no il sito diventa monotono)!
+Se vuoi collaborare alla crescita del sito contribuendo con nuove canzoni puoi farlo in maniera molto semplice:
+- leggi nella sezione documentazione come fare per trascrivere una canzone in codice LaTeX
+- invia il testo a canzoniereonline@gmail.com
 
-Grazie per la vostra pazienza...
+In futuro arriveranno nuove funzionalità che faciliteranno la trascrizione delle canzoni, ma per intanto bisogna fare tutto a mano.
