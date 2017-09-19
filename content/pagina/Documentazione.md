@@ -4,7 +4,7 @@ thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 metaAlignment: center
 showPagination: false
-
+date: "2017-09-19"
 ---
 Forniamo alcuni documenti che possono aiutare nella comprensione del codice LaTeX usato per comporre i canzonieri e alla fine permettere di scrivere da soli dei testi in codice LaTeX.
 
