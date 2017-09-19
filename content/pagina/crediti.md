@@ -8,7 +8,7 @@ aliases: [/crediti/]
 
 ---
 
-Questo servizio si appoggia a molti progetti open source o gratuiti sia per la creazione dei canzonieri che la costruzione del sito. 
+Questo servizio si appoggia a molti progetti open source o gratuiti sia per la creazione dei canzonieri che per la costruzione del sito. 
 
 - HuGo è il sistema che usiamo per generare il sito
 
@@ -22,9 +22,9 @@ Questo servizio si appoggia a molti progetti open source o gratuiti sia per la c
 
 - tranquilpeak è il tema su cui si appoggia il sito web
 
-- Latex è il sistema utilizzato per la creazione dei canzonieri
+- LaTeX è il sistema utilizzato per la creazione dei canzonieri
 
-- Songs è il pacchetto di latex che rende possibile l'impaginazinoe della canzoni
+- Songs è il pacchetto di LaTeX che rende possibile l'impaginazione delle canzoni
 
 
 
