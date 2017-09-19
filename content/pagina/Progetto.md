@@ -4,6 +4,7 @@ thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 metaAlignment: center
 showPagination: false
+date = "2017-09-19"
 ---
 **La storia**
 
