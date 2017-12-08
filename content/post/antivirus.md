@@ -5,11 +5,7 @@ categories:
 tags:
 ---
 
-Alcuni utenti ci hanno segnalato che, nella scorsa settimana, il sito veniva segnalato come pericoloso dai principali antivirus.
-Vi informiamo che abbiamo individuato e risolto il problema: si trattava di una modifica malevole allo script che utilizzavamo
-per visualizzare il popup di accettazione dei cookie. Lo scopo del codice malevole era "solo" quello di compiere operazioni di
-*crypto mining*. In altre parole, mentre voi navigavate sul sito parte della vostra CPU era impegnata a cercare di ricavare bitcoin
-per qualcun'altro. Non particolarmente pericoloso ma indubbiamente poco carino, da parte loro.
+Alcuni utenti ci hanno segnalato che, nella scorsa settimana, il sito veniva segnalato come pericoloso dai principali antivirus. Vi informiamo che abbiamo individuato e risolto il problema: si trattava di una modifica malevole allo script che utilizzavamo per visualizzare il popup di accettazione dei cookie. Lo scopo del codice malevole era "solo" quello di compiere operazioni di *crypto mining*. In altre parole, mentre voi navigavate sul sito parte della vostra CPU era impegnata a cercare di ricavare bitcoin per qualcun'altro. Non particolarmente pericoloso ma indubbiamente poco carino, da parte loro.
 
 <!--more-->
 
