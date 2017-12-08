@@ -11,8 +11,13 @@ per visualizzare il popup di accettazione dei cookie. Lo scopo del codice malevo
 *crypto mining*. In altre parole, mentre voi navigavate sul sito parte della vostra CPU era impegnata a cercare di ricavare bitcoin
 per qualcun'altro. Non particolarmente pericoloso ma indubbiamente poco carino, da parte loro.
 
+<!--more-->
+
 Come abbiamo specificato, il problema ora è rientrato e in nessun momento i vostri dati personali o l'infrastruttura del 
 sito sono stati compromessi.
+
+Qualora il vostro antivirus vi segnalasse ancora il nostro sito come pericoloso, vi invitiamo a ricaricare la pagina ignorando la cache locale.
+Trovate le istruzioni [qui](https://www.giardiniblog.com/ricaricare-cache-singola-pagina-web/).
 
 Ci spiace per l'inconveniente,
 
