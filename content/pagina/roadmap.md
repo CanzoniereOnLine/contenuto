@@ -2,7 +2,7 @@
 title: "Roadmap"
 metaAlignment: center
 showPagination: false
-date: "2018-01-23"
+date: "2018-02-03"
 ---
 ## Roadmap
 
@@ -28,3 +28,4 @@ In questa pagina inseriamo le cose che abbiamo in progetto di fare, prima o poi,
  8. Aggiungere il video corretto a 300 canzoni
  9. Aggiungere il video corr... beh, avete capito
  10. Modificare l'immagine di sfondo del sito con immagini più belle e a tema
+ 11. Migliorare il template delle email inviate (grafica e inserimento canzoni)
